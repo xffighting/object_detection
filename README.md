@@ -6,6 +6,8 @@
 - ssd_mobilenet_v1_pets.config pipeline的配置文件
 - tensorboard_eval_result1.png tensorboard上 eval的结果截图
 - tensorboard_eval_result2.png 同上
+- data_list.png 训练使用的数据文件列表，包括生成的TFRecord，test.png，labels_items.txt
+-  pre_trained_model_list.png 预训练模型相关文件，包括model.ckpt.*
 
 ## 心得
 当我们需要使用finetune模型来进行物体检测时，我们需要
